@@ -5,5 +5,5 @@
 
 # Ref
 
-* (getting-started-entity-component-system-ecs-unity-tutorial)[http://gyanendushekhar.com/2018/08/01/getting-started-entity-component-system-ecs-unity-tutorial]
-* (unity-ecs-survival-shooter)[http://infalliblecode.com/unity-ecs-survival-shooter-part-1/]
+* [getting-started-entity-component-system-ecs-unity-tutorial](http://gyanendushekhar.com/2018/08/01/getting-started-entity-component-system-ecs-unity-tutorial)
+* [unity-ecs-survival-shooter](http://infalliblecode.com/unity-ecs-survival-shooter-part-1)
