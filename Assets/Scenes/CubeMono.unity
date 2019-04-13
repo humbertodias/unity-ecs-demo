@@ -403,4 +403,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 316713c201b330488a8d2b109f8706a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cube: {fileID: 2673152440299245258, guid: 0529703b4f08778d2bcd79393115d10f, type: 3}
+  cube: {fileID: 2673152440299245258, guid: f339469bb22778988baf4066bea0c312, type: 3}
