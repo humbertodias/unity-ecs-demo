@@ -5,8 +5,7 @@
 
 # Demo
 
-
-![](docs/cubes.gif)
+![](doc/cubes.gif)
 
 # Ref
 
