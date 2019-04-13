@@ -2,7 +2,7 @@ using Unity.Entities;
 using Unity.Mathematics;
 using UnityEngine;
 
-namespace ecs
+namespace ecs.cube
 {
     [RequiresEntityConversion]
     public class RotationSpeedProxy : MonoBehaviour, IConvertGameObjectToEntity

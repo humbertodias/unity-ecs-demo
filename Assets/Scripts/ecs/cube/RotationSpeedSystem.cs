@@ -4,7 +4,7 @@ using Unity.Transforms;
 using UnityEngine;
 
 // This system updates all entities in the scene with both a RotationSpeed and Rotation component.
-namespace ecs
+namespace ecs.cube
 {
     public class RotationSpeedSystem : ComponentSystem
     {

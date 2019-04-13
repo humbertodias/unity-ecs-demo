@@ -2,7 +2,7 @@ using System;
 using Unity.Entities;
 
 // Serializable attribute is for editor support.
-namespace ecs
+namespace ecs.cube
 {
     [Serializable]
     public struct RotationSpeed : IComponentData
