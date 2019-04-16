@@ -1,7 +1,7 @@
 # Unity-ecs-demo
 
-* Unity 2019.2.0a11
-* Packages: Entities, Hybrid Renderer
+* Unity 2019.1.0f2
+* Preview Packages: Entities, Hybrid Renderer
 
 # Scenes
 
@@ -23,7 +23,7 @@ CarMono.unity
 
 ![](doc/car-mono.png)
 
-Press **SPACE** to spawn the car
+Press **SPACE** to spawn the car.
 
 CarECS.unity
 
